@@ -145,14 +145,14 @@ input[type="checkbox"]:checked + span::after {
 }
 
 details {
-    border: solid 3px #ffc1ff;
+    border: solid 3px #321a31;
     padding: 10px;
     border-radius: 10px;
     margin-bottom: 5px;
 }
 
 summary {
-    background-color: #ffc1ff;
+    background-color: #e09bdb;
     padding: 5px;
     border-radius: 10px;
     font-size: 22px;
